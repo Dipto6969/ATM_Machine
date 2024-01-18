@@ -1,0 +1,3 @@
+interface BankService {
+    void execute();
+}
